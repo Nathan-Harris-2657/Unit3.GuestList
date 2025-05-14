@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+li:hover {
+  background: #ddd;
+}
+
+div {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+p {
+  font-size: 18px;
+}
